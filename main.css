@@ -1,0 +1,115 @@
+/*Your CSS goes here.*/
+.Article{
+	max-width: 900px;
+	margin: auto;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 5px;
+	background-color:#ADD8E6;
+}
+
+.header{
+	font-family: Arial,sans-serif;
+	background-color: black;
+	max-width: 800px;
+}
+
+h1{
+	font-family: Arial,sans-serif;
+	font-size: 55px;
+	font-weight: Normal;
+	max-width: 800px;
+	border: 5px solid black;
+	color: black;
+	background-color: white;
+	
+}
+
+h2{
+	font-family: arial, sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+	max-width: 800px;
+	border: 4px solid black;
+	color: black;
+	background-color: white;
+
+}
+
+.Deck{
+	font-size: 25px;
+}
+
+.Byline{
+	font-size: 15px;
+	text-align: left;
+
+}
+
+.Date{
+	font-size: 14px;
+	color: grey;
+	text-align: left;
+}
+
+.Chart {
+width: 100%;
+}
+
+.Photo {
+	max-width: 400px;
+}
+
+.Story{
+	font-size: 18px;
+	font-family: serif;
+	max-width: 800px;
+	border: 3px solid;
+	background-color: white;
+	padding-left: 2px;
+}
+
+.explanation{
+	font-size: 17px;
+	font-weight: bold;
+	border: 3px solid;
+	background-color: white;
+	color: black;
+	max-width: 800px;
+	text-align: center;
+}
+
+.Information{
+	align-content: center;
+	padding-top: 8px;
+}
+
+.Dos{
+	font-size: 17px;
+	font-weight: bold;
+	border: 3px solid;
+	background-color: white;
+	color: black;
+	max-width: 800px;
+	text-align: center;
+}
+
+.Words{
+	font-size: 18px;
+	font-family: serif;
+	max-width: 800px;
+	border: 3px solid;
+	background-color: white;
+	padding-left: 2px;
+}
+
+
+.Ending {
+	border: 2px solid;
+	background-color: white;
+	color: black;
+	max-width: 800px;
+	text-align: center;
+}
